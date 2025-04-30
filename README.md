@@ -1,14 +1,23 @@
 Keywords:
 
 print;
+
 color;
+
 title;
+
 goto;
+
 pause;
+
 cls;
+
 delay;
+
 set;
+
 exit;
+
 
 
 How to use
@@ -18,6 +27,7 @@ How to use
 Outputs text or variables to the console.
 
 print Hello, World!
+
 print $variable
 
 Supports variables with $ prefix.
@@ -27,6 +37,7 @@ Supports variables with $ prefix.
 Changes the console text color.
 
 color red
+
 Preset colors: black, blue, green, red, purple, yellow, white, gray, violet.
 
 3. title
